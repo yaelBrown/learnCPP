@@ -1,0 +1,32 @@
+cpp notes
+
+other file extensions
+  c
+  cc
+  cxx
+  cpp
+
+g++ [filename]
+  compile app
+
+a.out
+  created everytime you compile
+
+./a.out 
+  runs program
+
+namespace - grouping of code. (helps prevent naming conflicts)
+  std - standard namespace
+
+ostream - class name?
+
+using directive (importing a class?)
+  adding 'using namespace std;' at the top of file
+    so you can omit it from the command
+      'cout << "string";'
+    using std::cout;
+      only using cout from standard namespace
+
+
+https://www.youtube.com/watch?v=_bYFu9mBnr4
+37:51
